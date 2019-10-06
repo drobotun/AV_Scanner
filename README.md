@@ -1,5 +1,5 @@
 # AV Scanner
-![AV_Scanner](AV_Scanner.png)
+![AV_Scanner](AV_Scanner_pict/AV_Scanner.png)
 
 Антивирус на основе MD5-сигнатур
 
