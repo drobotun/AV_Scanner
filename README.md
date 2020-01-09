@@ -1,3 +1,4 @@
+![PyPI - Downloads](https://img.shields.io/pypi/dm/vtapi3)
 # AV Scanner
 ![AV_Scanner](AV_Scanner_pict/AV_Scanner.png)
 
